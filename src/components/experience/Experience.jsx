@@ -16,6 +16,7 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>HTML</h4>
+                <small className="text-light">Advance</small>
                 </div>
                 
               </article>
@@ -23,6 +24,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                   <h4>CSS</h4>
+                  <small className="text-light">Advance</small>
+
                   </div>
                 
               </article>
@@ -30,6 +33,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>JAVASCRIPT</h4>
+                <small className="text-light">Advance</small>
+
                 </div>
                 
               </article>
@@ -37,6 +42,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>BOOTSTRAP</h4>
+                <small className="text-light">Basic</small>
+
                 </div>
                 
               </article>
@@ -44,6 +51,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>REACT JS</h4>
+                <small className="text-light">Advance</small>
+
                 </div>
                 
               </article>
@@ -57,6 +66,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>NODE JS</h4>
+                <small className="text-light">Basic</small>
+
                 </div>
                 
               </article>
@@ -64,6 +75,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>MONGODB</h4>
+                <small className="text-light">Basic</small>
+
                 </div>
                 
               </article>
@@ -71,6 +84,8 @@ function Experience() {
                 <BsFillPatchCheckFill className="experience-icons"/>
                 <div>
                 <h4>MYSQL</h4>
+                <small className="text-light">Basic</small>
+
                 </div>
                 
               </article>
